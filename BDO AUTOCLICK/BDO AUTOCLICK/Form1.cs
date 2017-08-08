@@ -12,6 +12,8 @@ namespace BDO_AUTOCLICK
 {
     public partial class Form1 : Form
     {
+        // LUL UN COMMENTAIRE
+
         public int xRes { get; set; }
         public int yRes { get; set; }
 

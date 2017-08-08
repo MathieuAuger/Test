@@ -6,3 +6,6 @@ e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\R
 e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Release\BDO AUTOCLICK.csproj.GenerateResource.Cache
 e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Release\BDO AUTOCLICK.exe
 e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Release\BDO AUTOCLICK.pdb
+E:\Maxim\Documents\GitHub\Test\Test\BDO AUTOCLICK\BDO AUTOCLICK\bin\Release\BDO AUTOCLICK.exe.config
+E:\Maxim\Documents\GitHub\Test\Test\BDO AUTOCLICK\BDO AUTOCLICK\obj\Release\BDO AUTOCLICK.exe
+E:\Maxim\Documents\GitHub\Test\Test\BDO AUTOCLICK\BDO AUTOCLICK\obj\Release\BDO AUTOCLICK.pdb
