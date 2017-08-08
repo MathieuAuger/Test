@@ -1,0 +1,9 @@
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\bin\Debug\BDO AUTOCLICK.exe.config
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\bin\Debug\BDO AUTOCLICK.exe
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\bin\Debug\BDO AUTOCLICK.pdb
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Debug\BDO AUTOCLICK.csprojResolveAssemblyReference.cache
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Debug\BDO_AUTOCLICK.Form1.resources
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Debug\BDO_AUTOCLICK.Properties.Resources.resources
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Debug\BDO AUTOCLICK.csproj.GenerateResource.Cache
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Debug\BDO AUTOCLICK.exe
+e:\maxim\documents\visual studio 2013\Projects\BDO AUTOCLICK\BDO AUTOCLICK\obj\Debug\BDO AUTOCLICK.pdb
